@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **05/12/19**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|
+|[Day 1](#day-1) **05/12/19**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys||[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|
 
 
 ----------
