@@ -53,7 +53,7 @@
  - Figured out how the tracking of function call works in a recusive function.
  - Undestood the mechanics behind merge sort.
  
-**Link to work**: [Github](https://github.com/getemratan/C-Programs/blob/master/MenuWithArrow.c)
+**Link to work**: [Github](https://github.com/getemratan/C-Programs/MergeSort.c)
 
 [Table of Contents](#toc)
 
