@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **05/12/19**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
-|[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|[Day 4](#day-4) **08/12/19**|continue...|
+|[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|[Day 4](#day-4) **08/12/19**|Binary addition, armstrong number, reversal of a number, palindrome|
 
 
 ----------
@@ -52,6 +52,22 @@
 
  - Figured out how the tracking of function call works in a recusive function.
  - Undestood the mechanics behind merge sort.
+ 
+**Link to work**: [Github](https://github.com/getemratan/C-Programs/MergeSort.c)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-4"></a>
+### Day 4: December 8, 2019 
+
+**Today's Focus**: Practicing basic C problems.
+
+**Details**:
+
+ - Palindrome problem.
+ - Binary addition of two numbers.
  
 **Link to work**: [Github](https://github.com/getemratan/C-Programs/MergeSort.c)
 
