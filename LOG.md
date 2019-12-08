@@ -69,7 +69,7 @@
  - Palindrome problem.
  - Binary addition of two numbers.
  
-**Link to work**: [Github](https://github.com/getemratan/C-Programs/MergeSort.c)
+**Link to work**: [Github](https://github.com/getemratan/C-Programs/blob/master/BinaryAddition.c)
 
 [Table of Contents](#toc)
 
