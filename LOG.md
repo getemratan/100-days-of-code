@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **05/12/19**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
 |[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|[Day 4](#day-4) **08/12/19**|Binary addition, armstrong number, reversal of a number, palindrome|
-|[Day 3](#day-5) **09/12/19**|Couldn't commit anything because currently I am working on my SMS project. And I got stuck at stupid line for 6 hours|[Day 4](#day-6) **10/12/19**|Still working on SMS project|
+|[Day 5](#day-5) **09/12/19**|Couldn't commit anything because currently I am working on my SMS project. And I got stuck at stupid line for 6 hours|[Day 6](#day-6) **10/12/19**|Still working on SMS project|
 
 
 ----------
