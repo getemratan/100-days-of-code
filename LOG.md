@@ -6,6 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **05/12/19**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
 |[Day 3](#day-3) **07/12/19**|Merge Sort in C using recursive function|[Day 4](#day-4) **08/12/19**|Binary addition, armstrong number, reversal of a number, palindrome|
+|[Day 3](#day-5) **09/12/19**|Couldn't commit anything because I currently I am working on my SMS project. And I got stuck at stupid line for 6 hours|[Day 4](#day-6) **10/12/19**|Still working on SMS project|
 
 
 ----------
@@ -70,6 +71,37 @@
  - Binary addition of two numbers.
  
 **Link to work**: [Github](https://github.com/getemratan/C-Programs/blob/master/BinaryAddition.c)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-5"></a>
+### Day 5: December 9, 2019 
+
+**Today's Focus**: Working on SMS project
+
+**Details**:
+
+GOT STUCK IN ONE STUPID LINE FOR 6 HOURS. 
+I was not positioning the file pointer to the beginning after using seekg() to point it towards the end.
+ 
+**Link to work**: [Github](couldn't commit today)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-6"></a>
+### Day 6: December 10, 2019 
+
+**Today's Focus**: Still working on SMS project
+
+**Details**:
+
+...
+ 
+**Link to work**: [Github](...)
 
 [Table of Contents](#toc)
 
