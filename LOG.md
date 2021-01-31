@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **31/01/21**|Bubble Sort, Prime Numbers, Dynamic Allocation|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
+|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
 
 
 
