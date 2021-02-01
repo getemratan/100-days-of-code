@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **06/12/19**|Menu-based program with the use of arrow keys|
+|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **06/12/19**|Prime Numbers in C++|
 
 
 
@@ -27,14 +27,13 @@
 <a name="day-2"></a>
 ### Day 2: December 6, 2019 
 
-**Today's Focus**: Use of arrow keys in C.
+**Today's Focus**: Prime Numbers in C++.
 
 **Details**:
 
- - Figured out how to take arrow keys, function keys and enter key as input.
- - Moved the arrow keys in a Main Menu manually. And then performed the corresponding operation.
+ - Figured out how to check if a number is prime or not.
  
-**Link to work**: [Github](https://github.com/getemratan/C-Programs/blob/master/MenuWithArrow.c)
+**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/PrimeNumber.cpp)
 
 [Table of Contents](#toc)
 
