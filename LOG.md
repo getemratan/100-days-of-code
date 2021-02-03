@@ -4,8 +4,8 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **01/02/21**|Prime Numbers in C++|[Day 3](#day-3) **03/02/21**|Prime Numbers in C++
-
+|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **01/02/21**|Prime Numbers in C++|
+|[Day 3](#day-3) **03/02/21**|Checking if a number is palindrome or not|[Day 4](#day-4) **04/02/21**|Prime Numbers in C++|
 
 
 ----------
