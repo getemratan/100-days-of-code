@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **06/12/19**|Prime Numbers in C++|
+|[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **01/02/21**|Prime Numbers in C++|[Day 3](#day-3) **03/02/21**|Prime Numbers in C++
 
 
 
@@ -25,7 +25,7 @@
 ----------
 ----------
 <a name="day-2"></a>
-### Day 2: December 6, 2019 
+### Day 2: February 1, 2021 
 
 **Today's Focus**: Prime Numbers in C++.
 
@@ -34,6 +34,21 @@
  - Figured out how to check if a number is prime or not.
  
 **Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/PrimeNumber.cpp)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-3"></a>
+### Day 3: February 3, 2021 
+
+**Today's Focus**: Practicing C++.
+
+**Details**:
+
+ - Figured out how to find Palindrome of a number using recursion and without recusion.
+ 
+**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/PalindromeNumber.cpp)
 
 [Table of Contents](#toc)
 
