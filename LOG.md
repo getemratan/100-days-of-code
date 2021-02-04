@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **01/02/21**|Prime Numbers in C++|
-|[Day 3](#day-3) **03/02/21**|Checking if a number is palindrome or not|[Day 4](#day-4) **04/02/21**|Prime Numbers in C++|
+|[Day 3](#day-3) **03/02/21**|Checking if a number is palindrome or not|[Day 4](#day-4) **04/02/21**|Getting factorial of a number in C++|
 
 
 ----------
@@ -16,7 +16,7 @@
 
 **Details**:
 
- - Figured out how to find Palindrome of a number using recursion and without recusion.
+ - Writing fibonacci series for a number with and without recursion.
  
 **Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/FibonacciSeries.cpp)
 
@@ -42,13 +42,28 @@
 <a name="day-3"></a>
 ### Day 3: February 3, 2021 
 
-**Today's Focus**: Practicing C++.
+**Today's Focus**: Writing a program to find palindrome of a given number.
 
 **Details**:
 
  - Figured out how to find Palindrome of a number using recursion and without recusion.
  
 **Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/PalindromeNumber.cpp)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-4"></a>
+### Day 4: February 4, 2021 
+
+**Today's Focus**: Writing a program to find factorial of a given number.
+
+**Details**:
+
+ - Figured out how to find factorial of a given number.
+ 
+**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/FactorialProg.cpp)
 
 [Table of Contents](#toc)
 
