@@ -79,7 +79,7 @@
 
  - Figured out how to if a given number is armstrong or not.
  
-**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/FactorialProg.cpp)
+**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/ArmstrongNumber.cpp)
 
 [Table of Contents](#toc)
 
