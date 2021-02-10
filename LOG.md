@@ -7,6 +7,7 @@
 |[Day 1](#day-1) **31/01/21**|Fibonacci series with and without recursion|[Day 2](#day-2) **01/02/21**|Prime Numbers in C++|
 |[Day 3](#day-3) **03/02/21**|Checking if a number is palindrome or not|[Day 4](#day-4) **04/02/21**|Getting factorial of a number in C++|
 |[Day 5](#day-5) **07/02/21**|Checking if a number is armstrong or not|[Day 6](#day-6) **08/02/21**|Add the digits of a given number|
+|[Day 7](#day-7) **10/02/21**|Printint the reverse of a given number|[Day 8](#day-8) **08/02/21**|Add the digits of a given number|
 
 
 ----------
@@ -95,6 +96,21 @@
  - Figured out how to add the digits of a given number.
  
 **Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/SumOfDigits.cpp)
+
+[Table of Contents](#toc)
+
+----------
+----------
+<a name="day-7"></a>
+### Day 7: February 10, 2021 
+
+**Today's Focus**: Writing a program to print the reverse of given number.
+
+**Details**:
+
+ - Figured out how to reverse a given number.
+ 
+**Link to work**: [Github](https://github.com/getemratan/CPP-Programs/blob/master/ReverseNum.cpp)
 
 [Table of Contents](#toc)
 
